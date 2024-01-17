@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width='600' height='600' viewBox='-300 -300 600 600' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+<g font-size='14px' pointer-events='none'>
+<rect vector-effect='non-scaling-stroke' fill='none' stroke='gray' stroke-width='2' x='-300' y='-300' width='600' height='600'/>
+<g transform='matrix(1.0,-0.0,-0.0,1.0,0.0,-0.0)'>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='2' x1='-300' y1='0' x2='300' y2='0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='2' x1='0' y1='-300' x2='0' y2='300'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='20.0' x2='300.0' y2='20.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-20.0' x2='300.0' y2='-20.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,20.0) scale(0.7,0.7)' x='0' y='0'>-1</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-20.0) scale(0.7,0.7)' x='0' y='0'>1</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='40.0' x2='300.0' y2='40.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-40.0' x2='300.0' y2='-40.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,40.0) scale(0.7,0.7)' x='0' y='0'>-2</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-40.0) scale(0.7,0.7)' x='0' y='0'>2</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='60.0' x2='300.0' y2='60.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-60.0' x2='300.0' y2='-60.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,60.0) scale(0.7,0.7)' x='0' y='0'>-3</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-60.0) scale(0.7,0.7)' x='0' y='0'>3</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='80.0' x2='300.0' y2='80.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-80.0' x2='300.0' y2='-80.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,80.0) scale(0.7,0.7)' x='0' y='0'>-4</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-80.0) scale(0.7,0.7)' x='0' y='0'>4</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='100.0' x2='300.0' y2='100.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-100.0' x2='300.0' y2='-100.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,100.0) scale(0.7,0.7)' x='0' y='0'>-5</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-100.0) scale(0.7,0.7)' x='0' y='0'>5</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='120.0' x2='300.0' y2='120.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-120.0' x2='300.0' y2='-120.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,120.0) scale(0.7,0.7)' x='0' y='0'>-6</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-120.0) scale(0.7,0.7)' x='0' y='0'>6</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='140.0' x2='300.0' y2='140.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-140.0' x2='300.0' y2='-140.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,140.0) scale(0.7,0.7)' x='0' y='0'>-7</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-140.0) scale(0.7,0.7)' x='0' y='0'>7</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='160.0' x2='300.0' y2='160.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-160.0' x2='300.0' y2='-160.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,160.0) scale(0.7,0.7)' x='0' y='0'>-8</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-160.0) scale(0.7,0.7)' x='0' y='0'>8</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='180.0' x2='300.0' y2='180.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-180.0' x2='300.0' y2='-180.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,180.0) scale(0.7,0.7)' x='0' y='0'>-9</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-180.0) scale(0.7,0.7)' x='0' y='0'>9</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='200.0' x2='300.0' y2='200.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-200.0' x2='300.0' y2='-200.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,200.0) scale(0.7,0.7)' x='0' y='0'>-10</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-200.0) scale(0.7,0.7)' x='0' y='0'>10</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='220.0' x2='300.0' y2='220.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-220.0' x2='300.0' y2='-220.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,220.0) scale(0.7,0.7)' x='0' y='0'>-11</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-220.0) scale(0.7,0.7)' x='0' y='0'>11</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='240.0' x2='300.0' y2='240.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-240.0' x2='300.0' y2='-240.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,240.0) scale(0.7,0.7)' x='0' y='0'>-12</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-240.0) scale(0.7,0.7)' x='0' y='0'>12</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='260.0' x2='300.0' y2='260.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-260.0' x2='300.0' y2='-260.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,260.0) scale(0.7,0.7)' x='0' y='0'>-13</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-260.0) scale(0.7,0.7)' x='0' y='0'>13</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='280.0' x2='300.0' y2='280.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-280.0' x2='300.0' y2='-280.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,280.0) scale(0.7,0.7)' x='0' y='0'>-14</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-280.0) scale(0.7,0.7)' x='0' y='0'>14</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='300.0' x2='300.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-300.0' x2='300.0' y2='-300.0'/>
+<text fill='gray' text-anchor='end' transform='translate(0.0,300.0) scale(0.7,0.7)' x='0' y='0'>-15</text>
+<text fill='gray' text-anchor='end' transform='translate(0.0,-300.0) scale(0.7,0.7)' x='0' y='0'>15</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='20.0'  y1='-300.0' x2='20.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-20.0'  y1='-300.0' x2='-20.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(20.0,10.0) scale(0.7,0.7)' x='0' y='0'>1</text>
+<text fill='gray' text-anchor='middle' transform='translate(-20.0,10.0) scale(0.7,0.7)' x='0' y='0'>-1</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='40.0'  y1='-300.0' x2='40.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-40.0'  y1='-300.0' x2='-40.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(40.0,10.0) scale(0.7,0.7)' x='0' y='0'>2</text>
+<text fill='gray' text-anchor='middle' transform='translate(-40.0,10.0) scale(0.7,0.7)' x='0' y='0'>-2</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='60.0'  y1='-300.0' x2='60.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-60.0'  y1='-300.0' x2='-60.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(60.0,10.0) scale(0.7,0.7)' x='0' y='0'>3</text>
+<text fill='gray' text-anchor='middle' transform='translate(-60.0,10.0) scale(0.7,0.7)' x='0' y='0'>-3</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='80.0'  y1='-300.0' x2='80.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-80.0'  y1='-300.0' x2='-80.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(80.0,10.0) scale(0.7,0.7)' x='0' y='0'>4</text>
+<text fill='gray' text-anchor='middle' transform='translate(-80.0,10.0) scale(0.7,0.7)' x='0' y='0'>-4</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='100.0'  y1='-300.0' x2='100.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-100.0'  y1='-300.0' x2='-100.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(100.0,10.0) scale(0.7,0.7)' x='0' y='0'>5</text>
+<text fill='gray' text-anchor='middle' transform='translate(-100.0,10.0) scale(0.7,0.7)' x='0' y='0'>-5</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='120.0'  y1='-300.0' x2='120.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-120.0'  y1='-300.0' x2='-120.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(120.0,10.0) scale(0.7,0.7)' x='0' y='0'>6</text>
+<text fill='gray' text-anchor='middle' transform='translate(-120.0,10.0) scale(0.7,0.7)' x='0' y='0'>-6</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='140.0'  y1='-300.0' x2='140.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-140.0'  y1='-300.0' x2='-140.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(140.0,10.0) scale(0.7,0.7)' x='0' y='0'>7</text>
+<text fill='gray' text-anchor='middle' transform='translate(-140.0,10.0) scale(0.7,0.7)' x='0' y='0'>-7</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='160.0'  y1='-300.0' x2='160.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-160.0'  y1='-300.0' x2='-160.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(160.0,10.0) scale(0.7,0.7)' x='0' y='0'>8</text>
+<text fill='gray' text-anchor='middle' transform='translate(-160.0,10.0) scale(0.7,0.7)' x='0' y='0'>-8</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='180.0'  y1='-300.0' x2='180.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-180.0'  y1='-300.0' x2='-180.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(180.0,10.0) scale(0.7,0.7)' x='0' y='0'>9</text>
+<text fill='gray' text-anchor='middle' transform='translate(-180.0,10.0) scale(0.7,0.7)' x='0' y='0'>-9</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='200.0'  y1='-300.0' x2='200.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-200.0'  y1='-300.0' x2='-200.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(200.0,10.0) scale(0.7,0.7)' x='0' y='0'>10</text>
+<text fill='gray' text-anchor='middle' transform='translate(-200.0,10.0) scale(0.7,0.7)' x='0' y='0'>-10</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='220.0'  y1='-300.0' x2='220.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-220.0'  y1='-300.0' x2='-220.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(220.0,10.0) scale(0.7,0.7)' x='0' y='0'>11</text>
+<text fill='gray' text-anchor='middle' transform='translate(-220.0,10.0) scale(0.7,0.7)' x='0' y='0'>-11</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='240.0'  y1='-300.0' x2='240.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-240.0'  y1='-300.0' x2='-240.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(240.0,10.0) scale(0.7,0.7)' x='0' y='0'>12</text>
+<text fill='gray' text-anchor='middle' transform='translate(-240.0,10.0) scale(0.7,0.7)' x='0' y='0'>-12</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='260.0'  y1='-300.0' x2='260.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-260.0'  y1='-300.0' x2='-260.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(260.0,10.0) scale(0.7,0.7)' x='0' y='0'>13</text>
+<text fill='gray' text-anchor='middle' transform='translate(-260.0,10.0) scale(0.7,0.7)' x='0' y='0'>-13</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='280.0'  y1='-300.0' x2='280.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-280.0'  y1='-300.0' x2='-280.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(280.0,10.0) scale(0.7,0.7)' x='0' y='0'>14</text>
+<text fill='gray' text-anchor='middle' transform='translate(-280.0,10.0) scale(0.7,0.7)' x='0' y='0'>-14</text>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='300.0'  y1='-300.0' x2='300.0' y2='300.0'/>
+<line vector-effect='non-scaling-stroke' stroke='gray' stroke-width='1' x1='-300.0'  y1='-300.0' x2='-300.0' y2='300.0'/>
+<text fill='gray' text-anchor='middle' transform='translate(300.0,10.0) scale(0.7,0.7)' x='0' y='0'>15</text>
+<text fill='gray' text-anchor='middle' transform='translate(-300.0,10.0) scale(0.7,0.7)' x='0' y='0'>-15</text>
+</g>
+<rect fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951535,-0.3090169943749474,0.3090169943749474,0.9510565162951535,-3.0,-20.0)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749473,-0.587785252292473,0.587785252292473,0.8090169943749473,-12.033509436384408,-38.09407934277823)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-26.21626546535871,-52.51106347339976)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.30901699437494756,-0.9510565162951534,0.9510565162951534,0.30901699437494756,-44.15996110973508,-61.83971753612438)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(1.6653345369377348e-16,-0.9999999999999998,0.9999999999999998,1.6653345369377348e-16,-64.10814241876298,-65.16688787473787)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(-0.3090169943749472,-0.9510565162951533,0.9510565162951533,-0.3090169943749472,-84.10814241876298,-62.16688787473787)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(-0.5877852522924727,-0.8090169943749472,0.8090169943749472,-0.5877852522924727,-102.20222176154121,-53.133378438353475)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(-0.5877852522924727,-0.8090169943749472,0.8090169943749472,-0.5877852522924727,-110.29239170529067,-47.25552591542875)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(1.6653345369377348e-16,-0.9999999999999996,0.9999999999999996,1.6653345369377348e-16,-104.0563237277909,-58.83971753612439)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,-0.9999999999999996,0.9999999999999996,1.6653345369377348e-16,-114.0563237277909,-58.83971753612439)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.3090169943749475,-0.9510565162951533,0.9510565162951533,0.3090169943749475,-84.10814241876298,-68.16688787473787)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(1.6653345369377348e-16,-0.9999999999999997,0.9999999999999997,1.6653345369377348e-16,-104.0563237277909,-71.49405821335135)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,-0.9999999999999997,0.9999999999999997,1.6653345369377348e-16,-114.0563237277909,-71.49405821335135)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924731,-0.8090169943749471,0.8090169943749471,0.5877852522924731,-102.20222176154121,-77.20039731112227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,-0.8090169943749471,0.8090169943749471,0.5877852522924731,-110.29239170529067,-83.078249834047)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-62.2540404525133,-70.87322697250879)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.30901699437494756,-0.9510565162951534,0.9510565162951534,0.30901699437494756,-80.19773609688967,-80.2018810352334)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(1.6653345369377348e-16,-0.9999999999999998,0.9999999999999998,1.6653345369377348e-16,-100.14591740591757,-83.5290513738469)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,-0.9999999999999998,0.9999999999999998,1.6653345369377348e-16,-110.14591740591757,-83.5290513738469)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-98.2918154396679,-89.23539047161782)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-106.38198538341737,-95.11324299454256)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749473,-0.5877852522924729,0.5877852522924729,0.8090169943749473,-76.67102458313482,-85.05598300148309)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-90.85378061210912,-99.47296713210461)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-98.94395055585859,-105.35081965502934)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951534,-0.3090169943749473,0.3090169943749473,0.9510565162951534,-85.99967864585946,-102.99967864585945)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951534,-0.3090169943749473,0.3090169943749473,0.9510565162951534,-89.08984858960892,-112.51024380881098)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749473,-0.5877852522924729,0.5877852522924729,0.8090169943749473,-40.63324959598024,-66.69381950237405)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-54.81600562495454,-81.11080363299558)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.30901699437494756,-0.9510565162951534,0.9510565162951534,0.30901699437494756,-72.7597012693309,-90.43945769572021)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(1.6653345369377348e-16,-0.9999999999999998,0.9999999999999998,1.6653345369377348e-16,-92.70788257835882,-93.7666280343337)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,-0.9999999999999998,0.9999999999999998,1.6653345369377348e-16,-102.70788257835882,-93.7666280343337)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-90.85378061210915,-99.47296713210463)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-98.9439505558586,-105.35081965502937)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749473,-0.5877852522924729,0.5877852522924729,0.8090169943749473,-69.23298975557607,-95.2935596619699)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-83.41574578455037,-109.71054379259142)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,-0.8090169943749472,0.8090169943749472,0.5877852522924731,-91.50591572829983,-115.58839631551615)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951534,-0.3090169943749473,0.3090169943749473,0.9510565162951534,-78.56164381830068,-113.23725530634626)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951534,-0.3090169943749473,0.3090169943749473,0.9510565162951534,-81.65181376205015,-122.74782046929779)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951534,-0.3090169943749473,0.3090169943749473,0.9510565162951534,-49.961903658704856,-84.63751514675042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749472,-0.5877852522924729,0.5877852522924729,0.8090169943749472,-58.99541309508926,-102.73159448952866)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-73.17816912406356,-117.14857862015018)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-81.26833906781303,-123.02643114307492)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-68.32406715781387,-120.67529013390501)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-71.41423710156334,-130.18585529685654)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999998,1.1102230246251565e-16,-1.1102230246251565e-16,0.9999999999999998,-53.28907399731834,-104.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494723,0.30901699437494723,0.9510565162951533,-56.28907399731834,-124.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,-0.30901699437494723,0.30901699437494723,0.9510565162951533,-59.37924394106781,-134.09626161872987)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494745,-0.30901699437494745,0.9510565162951533,-50.28907399731835,-124.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,0.30901699437494745,-0.30901699437494745,0.9510565162951533,-47.19890405356887,-134.09626161872987)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951534,-0.3090169943749474,0.3090169943749474,0.9510565162951534,-21.362163499109027,-56.03777498715459)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749472,-0.587785252292473,0.587785252292473,0.8090169943749472,-30.395672935493433,-74.13185432993282)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.587785252292473,-0.8090169943749472,0.8090169943749472,0.587785252292473,-44.57842896446774,-88.54883846055435)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.30901699437494745,-0.9510565162951533,0.9510565162951533,0.30901699437494745,-62.522124608844095,-97.87749252327897)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(1.1102230246251565e-16,-0.9999999999999997,0.9999999999999997,1.1102230246251565e-16,-82.47030591787201,-101.20466286189244)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.1102230246251565e-16,-0.9999999999999997,0.9999999999999997,1.1102230246251565e-16,-92.47030591787201,-101.20466286189244)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-80.61620395162234,-106.9110019596634)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-88.7063738953718,-112.78885448258812)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749472,-0.587785252292473,0.587785252292473,0.8090169943749472,-58.99541309508926,-102.73159448952865)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.587785252292473,-0.8090169943749472,0.8090169943749472,0.587785252292473,-73.17816912406356,-117.14857862015016)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,-0.8090169943749472,0.8090169943749472,0.587785252292473,-81.26833906781303,-123.02643114307489)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494745,0.30901699437494745,0.9510565162951533,-68.32406715781389,-120.675290133905)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,-0.30901699437494745,0.30901699437494745,0.9510565162951533,-71.41423710156336,-130.18585529685654)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494745,0.30901699437494745,0.9510565162951533,-39.724326998218054,-92.07554997430918)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.587785252292473,0.587785252292473,0.8090169943749471,-48.75783643460246,-110.1696293170874)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749472,0.8090169943749472,0.5877852522924729,-62.94059246357676,-124.58661344770891)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749472,0.8090169943749472,0.5877852522924729,-71.03076240732624,-130.46446597063365)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494745,0.30901699437494745,0.9510565162951532,-58.08649049732708,-128.11332496146375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494745,0.30901699437494745,0.9510565162951532,-61.17666044107655,-137.62389012441528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,-1.1102230246251565e-16,1.1102230246251565e-16,0.9999999999999997,-43.051497336831545,-112.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749474,0.3090169943749474,0.9510565162951532,-46.051497336831545,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749474,0.3090169943749474,0.9510565162951532,-49.14166728058102,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749472,-0.3090169943749472,0.9510565162951532,-40.051497336831545,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749472,-0.3090169943749472,0.9510565162951532,-36.96132739308207,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999998,-0.0,-0.0,0.9999999999999998,-24.68933383772251,-75.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-27.689333837722508,-95.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.5877852522924729,0.5877852522924729,0.8090169943749471,-36.72284327410692,-114.08003563896074)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-50.90559930308122,-128.49701976958227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-58.99576924683069,-134.374872292507)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-46.05149733683153,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-49.141667280581004,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,-0.0,-0.0,0.9999999999999997,-31.016504176335996,-115.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,-34.01650417633599,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,-37.106674120085465,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,-28.016504176335996,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,-24.926334232586523,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,-21.689333837722515,-95.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,-0.0,-0.0,0.9999999999999997,-18.362163499109027,-115.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,-21.362163499109027,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,-24.4523334428585,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,-15.362163499109027,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,-12.271993555359554,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.5877852522924729,-0.5877852522924729,0.8090169943749471,-12.655824401338107,-114.08003563896074)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,-3.32717033861349,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,-0.23700039486401647,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,1.5269316276361922,-128.49701976958227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,9.617101571385664,-134.374872292507)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999999,-0.0,-0.0,0.9999999999999999,-6.327170338613488,-39.948181309027916)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951534,-0.30901699437494734,0.30901699437494734,0.9510565162951534,-9.327170338613488,-59.948181309027916)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749472,-0.5877852522924729,0.5877852522924729,0.8090169943749472,-18.360679774997894,-78.04226065180613)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-32.543435803972194,-92.45924478242767)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.30901699437494745,-0.9510565162951532,0.9510565162951532,0.30901699437494745,-50.487131448348556,-101.78789884515228)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(1.6653345369377348e-16,-0.9999999999999996,0.9999999999999996,1.6653345369377348e-16,-70.43531275737647,-105.11506918376577)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,-0.9999999999999996,0.9999999999999996,1.6653345369377348e-16,-80.43531275737647,-105.11506918376577)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,-0.809016994374947,0.809016994374947,0.5877852522924729,-68.58121079112678,-110.82140828153669)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.809016994374947,0.809016994374947,0.5877852522924729,-76.67138073487624,-116.69926080446143)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749472,-0.5877852522924729,0.5877852522924729,0.8090169943749472,-46.960419934593716,-106.64200081140197)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-61.14317596356802,-121.0589849420235)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-69.2333459073175,-126.93683746494824)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-56.28907399731833,-124.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-59.379243941067806,-134.09626161872987)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-27.689333837722508,-95.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.5877852522924729,0.5877852522924729,0.8090169943749471,-36.72284327410692,-114.08003563896074)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-50.90559930308122,-128.49701976958227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-58.99576924683069,-134.374872292507)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-46.05149733683153,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-49.141667280581004,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,-0.0,-0.0,0.9999999999999997,-31.016504176335996,-115.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,-34.01650417633599,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,-37.106674120085465,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,-28.016504176335996,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,-24.926334232586523,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999998,5.551115123125783e-17,-5.551115123125783e-17,0.9999999999999998,-12.654340677226974,-79.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,-0.3090169943749473,0.3090169943749473,0.9510565162951533,-15.654340677226973,-99.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.5877852522924729,0.5877852522924729,0.8090169943749471,-24.68785011361138,-117.99044196083403)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-38.87060614258567,-132.40742609145556)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-46.96077608633515,-138.2852786143803)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-34.016504176336,-135.9341376052104)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-37.10667412008547,-145.44470276816193)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,5.551115123125783e-17,-5.551115123125783e-17,0.9999999999999997,-18.981511015840457,-119.84454392708373)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494723,0.30901699437494723,0.9510565162951532,-21.981511015840454,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494723,0.30901699437494723,0.9510565162951532,-25.071680959589926,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,-15.981511015840457,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,-12.891341072090983,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,0.3090169943749474,-0.3090169943749474,0.9510565162951533,-9.654340677226973,-99.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,5.551115123125783e-17,-5.551115123125783e-17,0.9999999999999997,-6.327170338613486,-119.84454392708373)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494723,0.30901699437494723,0.9510565162951532,-9.327170338613485,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494723,0.30901699437494723,0.9510565162951532,-12.417340282362957,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,-3.327170338613486,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,-0.2370003948640126,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.5877852522924729,-0.5877852522924729,0.8090169943749471,-0.6208312408425654,-117.99044196083403)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,8.707822821882052,-135.9341376052104)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,11.797992765631523,-145.44470276816193)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,13.561924788131734,-132.40742609145556)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,21.652094731881206,-138.2852786143803)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951534,0.30901699437494734,-0.30901699437494734,0.9510565162951534,-3.327170338613489,-59.948181309027916)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999998,-5.551115123125783e-17,5.551115123125783e-17,0.9999999999999998,-2.220446049250313e-15,-79.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,-0.3090169943749474,0.3090169943749474,0.9510565162951533,-3.0000000000000027,-99.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.5877852522924729,0.5877852522924729,0.8090169943749471,-12.03350943638441,-117.99044196083403)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-26.21626546535871,-132.40742609145556)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-34.306435409108175,-138.2852786143803)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-21.36216349910903,-135.9341376052104)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-24.452333442858503,-145.44470276816193)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,-5.551115123125783e-17,5.551115123125783e-17,0.9999999999999997,-6.32717033861349,-119.84454392708373)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-9.327170338613492,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-12.417340282362964,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494723,-0.30901699437494723,0.9510565162951532,-3.3271703386134925,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494723,-0.30901699437494723,0.9510565162951532,-0.23700039486402036,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,0.3090169943749473,-0.3090169943749473,0.9510565162951533,2.999999999999996,-99.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,-5.551115123125783e-17,5.551115123125783e-17,0.9999999999999997,6.327170338613481,-119.84454392708373)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,3.3271703386134814,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,0.23700039486400815,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494723,-0.30901699437494723,0.9510565162951532,9.32717033861348,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494723,-0.30901699437494723,0.9510565162951532,12.417340282362952,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.5877852522924729,-0.5877852522924729,0.8090169943749471,12.033509436384403,-117.99044196083403)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,21.362163499109023,-135.9341376052104)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,24.452333442858496,-145.44470276816193)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,26.2162654653587,-132.40742609145556)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,34.30643540910817,-138.2852786143803)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749472,0.5877852522924729,-0.5877852522924729,0.8090169943749472,5.706339097770918,-78.04226065180613)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,15.034993160495535,-95.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,-0.0,-0.0,0.9999999999999997,18.362163499109023,-115.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,15.362163499109025,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,12.271993555359552,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,21.362163499109023,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,24.452333442858496,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.5877852522924729,-0.5877852522924729,0.8090169943749471,24.06850259687994,-114.08003563896074)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,33.397156659604555,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,36.487326603354035,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,38.25125862585424,-128.49701976958227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,46.34142856960372,-134.374872292507)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,19.889095126745218,-92.45924478242767)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749472,0.5877852522924729,-0.5877852522924729,0.8090169943749472,34.30607925736674,-106.64200081140197)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,43.63473332009136,-124.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,46.72490326384083,-134.09626161872987)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,48.48883528634104,-121.0589849420235)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,56.579005230090516,-126.93683746494824)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.30901699437494745,0.9510565162951532,-0.9510565162951532,0.30901699437494745,37.83279077112158,-101.78789884515228)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,0.809016994374947,-0.809016994374947,0.5877852522924729,55.9268701138998,-110.82140828153669)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.809016994374947,-0.809016994374947,0.5877852522924729,64.01704005764927,-116.69926080446143)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(1.6653345369377348e-16,0.9999999999999996,-0.9999999999999996,1.6653345369377348e-16,57.78097208014948,-105.11506918376577)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,0.9999999999999996,-0.9999999999999996,1.6653345369377348e-16,67.78097208014948,-105.11506918376577)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951535,0.3090169943749474,-0.3090169943749474,0.9510565162951535,3.0,-20.0)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999999,-0.0,-0.0,0.9999999999999999,6.327170338613488,-39.948181309027916)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951534,-0.30901699437494734,0.30901699437494734,0.9510565162951534,3.327170338613489,-59.948181309027916)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749472,-0.5877852522924729,0.5877852522924729,0.8090169943749472,-5.706339097770918,-78.04226065180613)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-19.889095126745218,-92.45924478242767)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.30901699437494745,-0.9510565162951532,0.9510565162951532,0.30901699437494745,-37.83279077112158,-101.78789884515228)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(1.6653345369377348e-16,-0.9999999999999996,0.9999999999999996,1.6653345369377348e-16,-57.78097208014948,-105.11506918376577)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,-0.9999999999999996,0.9999999999999996,1.6653345369377348e-16,-67.78097208014948,-105.11506918376577)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,-0.809016994374947,0.809016994374947,0.5877852522924729,-55.9268701138998,-110.82140828153669)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.809016994374947,0.809016994374947,0.5877852522924729,-64.01704005764927,-116.69926080446143)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749472,-0.5877852522924729,0.5877852522924729,0.8090169943749472,-34.30607925736674,-106.64200081140197)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-48.48883528634104,-121.0589849420235)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,-0.8090169943749471,0.8090169943749471,0.587785252292473,-56.579005230090516,-126.93683746494824)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-43.63473332009136,-124.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-46.72490326384083,-134.09626161872987)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,-15.034993160495535,-95.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.5877852522924729,0.5877852522924729,0.8090169943749471,-24.06850259687994,-114.08003563896074)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-38.25125862585424,-128.49701976958227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-46.34142856960372,-134.374872292507)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-33.397156659604555,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-36.487326603354035,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,-0.0,-0.0,0.9999999999999997,-18.362163499109023,-115.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,-21.362163499109023,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,-24.452333442858496,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,-15.362163499109025,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,-12.271993555359552,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999998,5.551115123125783e-17,-5.551115123125783e-17,0.9999999999999998,2.220446049250313e-15,-79.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,-0.3090169943749473,0.3090169943749473,0.9510565162951533,-2.999999999999996,-99.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.5877852522924729,0.5877852522924729,0.8090169943749471,-12.033509436384403,-117.99044196083403)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-26.2162654653587,-132.40742609145556)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-34.30643540910817,-138.2852786143803)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-21.362163499109023,-135.9341376052104)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-24.452333442858496,-145.44470276816193)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,5.551115123125783e-17,-5.551115123125783e-17,0.9999999999999997,-6.327170338613481,-119.84454392708373)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494723,0.30901699437494723,0.9510565162951532,-9.32717033861348,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494723,0.30901699437494723,0.9510565162951532,-12.417340282362952,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,-3.3271703386134814,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,-0.23700039486400815,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,0.3090169943749474,-0.3090169943749474,0.9510565162951533,3.0000000000000027,-99.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,5.551115123125783e-17,-5.551115123125783e-17,0.9999999999999997,6.32717033861349,-119.84454392708373)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494723,0.30901699437494723,0.9510565162951532,3.3271703386134925,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494723,0.30901699437494723,0.9510565162951532,0.23700039486402036,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,9.327170338613492,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,12.417340282362964,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.5877852522924729,-0.5877852522924729,0.8090169943749471,12.03350943638441,-117.99044196083403)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,21.36216349910903,-135.9341376052104)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,24.452333442858503,-145.44470276816193)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,26.21626546535871,-132.40742609145556)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,34.306435409108175,-138.2852786143803)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951534,0.30901699437494734,-0.30901699437494734,0.9510565162951534,9.327170338613488,-59.948181309027916)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999998,-5.551115123125783e-17,5.551115123125783e-17,0.9999999999999998,12.654340677226974,-79.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,-0.3090169943749474,0.3090169943749474,0.9510565162951533,9.654340677226973,-99.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.5877852522924729,0.5877852522924729,0.8090169943749471,0.6208312408425654,-117.99044196083403)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-13.561924788131734,-132.40742609145556)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-21.652094731881206,-138.2852786143803)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-8.707822821882052,-135.9341376052104)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,-11.797992765631523,-145.44470276816193)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,-5.551115123125783e-17,5.551115123125783e-17,0.9999999999999997,6.327170338613486,-119.84454392708373)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,3.327170338613486,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,0.2370003948640126,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494723,-0.30901699437494723,0.9510565162951532,9.327170338613485,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494723,-0.30901699437494723,0.9510565162951532,12.417340282362957,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,0.3090169943749473,-0.3090169943749473,0.9510565162951533,15.654340677226973,-99.89636261805583)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,-5.551115123125783e-17,5.551115123125783e-17,0.9999999999999997,18.981511015840457,-119.84454392708373)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,15.981511015840457,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,12.891341072090983,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494723,-0.30901699437494723,0.9510565162951532,21.981511015840454,-139.84454392708375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494723,-0.30901699437494723,0.9510565162951532,25.071680959589926,-149.35510909003528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.5877852522924729,-0.5877852522924729,0.8090169943749471,24.68785011361138,-117.99044196083403)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,34.016504176336,-135.9341376052104)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,37.10667412008547,-145.44470276816193)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,38.87060614258567,-132.40742609145556)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,46.96077608633515,-138.2852786143803)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749472,0.5877852522924729,-0.5877852522924729,0.8090169943749472,18.360679774997894,-78.04226065180613)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,27.689333837722508,-95.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,-0.0,-0.0,0.9999999999999997,31.016504176335996,-115.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,28.016504176335996,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,24.926334232586523,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,34.01650417633599,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,37.106674120085465,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.5877852522924729,-0.5877852522924729,0.8090169943749471,36.72284327410692,-114.08003563896074)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,46.05149733683153,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,49.141667280581004,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,50.90559930308122,-128.49701976958227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,58.99576924683069,-134.374872292507)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,32.543435803972194,-92.45924478242767)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749472,0.5877852522924729,-0.5877852522924729,0.8090169943749472,46.960419934593716,-106.64200081140197)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,56.28907399731833,-124.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,59.379243941067806,-134.09626161872987)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,61.14317596356802,-121.0589849420235)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,69.2333459073175,-126.93683746494824)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.30901699437494745,0.9510565162951532,-0.9510565162951532,0.30901699437494745,50.487131448348556,-101.78789884515228)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,0.809016994374947,-0.809016994374947,0.5877852522924729,68.58121079112678,-110.82140828153669)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.809016994374947,-0.809016994374947,0.5877852522924729,76.67138073487624,-116.69926080446143)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(1.6653345369377348e-16,0.9999999999999996,-0.9999999999999996,1.6653345369377348e-16,70.43531275737647,-105.11506918376577)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,0.9999999999999996,-0.9999999999999996,1.6653345369377348e-16,80.43531275737647,-105.11506918376577)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749473,0.587785252292473,-0.587785252292473,0.8090169943749473,12.033509436384408,-38.09407934277823)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951534,0.3090169943749474,-0.3090169943749474,0.9510565162951534,21.362163499109027,-56.03777498715459)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999998,-0.0,-0.0,0.9999999999999998,24.68933383772251,-75.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494734,0.30901699437494734,0.9510565162951533,21.689333837722515,-95.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749471,-0.5877852522924729,0.5877852522924729,0.8090169943749471,12.655824401338107,-114.08003563896074)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-1.5269316276361922,-128.49701976958227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,-0.8090169943749471,0.8090169943749471,0.5877852522924729,-9.617101571385664,-134.374872292507)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,3.32717033861349,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.30901699437494734,0.30901699437494734,0.9510565162951532,0.23700039486401647,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9999999999999997,-0.0,-0.0,0.9999999999999997,18.362163499109027,-115.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,15.362163499109027,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,12.271993555359554,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,21.362163499109027,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,24.4523334428585,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,27.689333837722508,-95.98595629618251)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,-0.0,-0.0,0.9999999999999997,31.016504176335996,-115.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,28.016504176335996,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749473,0.3090169943749473,0.9510565162951532,24.926334232586523,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,34.01650417633599,-135.93413760521042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749473,-0.3090169943749473,0.9510565162951532,37.106674120085465,-145.44470276816196)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.5877852522924729,-0.5877852522924729,0.8090169943749471,36.72284327410692,-114.08003563896074)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,46.05149733683153,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494734,-0.30901699437494734,0.9510565162951532,49.141667280581004,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,50.90559930308122,-128.49701976958227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749471,-0.8090169943749471,0.5877852522924729,58.99576924683069,-134.374872292507)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749472,0.587785252292473,-0.587785252292473,0.8090169943749472,30.395672935493433,-74.13185432993282)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494745,-0.30901699437494745,0.9510565162951533,39.724326998218054,-92.07554997430918)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999997,1.1102230246251565e-16,-1.1102230246251565e-16,0.9999999999999997,43.051497336831545,-112.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,-0.3090169943749472,0.3090169943749472,0.9510565162951532,40.051497336831545,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,-0.3090169943749472,0.3090169943749472,0.9510565162951532,36.96132739308207,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951532,0.3090169943749474,-0.3090169943749474,0.9510565162951532,46.051497336831545,-132.0237312833371)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.3090169943749474,-0.3090169943749474,0.9510565162951532,49.14166728058102,-141.53429644628864)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749471,0.587785252292473,-0.587785252292473,0.8090169943749471,48.75783643460246,-110.1696293170874)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951532,0.30901699437494745,-0.30901699437494745,0.9510565162951532,58.08649049732708,-128.11332496146375)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951532,0.30901699437494745,-0.30901699437494745,0.9510565162951532,61.17666044107655,-137.62389012441528)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924729,0.8090169943749472,-0.8090169943749472,0.5877852522924729,62.94059246357676,-124.58661344770891)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924729,0.8090169943749472,-0.8090169943749472,0.5877852522924729,71.03076240732624,-130.46446597063365)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.587785252292473,0.8090169943749472,-0.8090169943749472,0.587785252292473,44.57842896446774,-88.54883846055435)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749472,0.587785252292473,-0.587785252292473,0.8090169943749472,58.99541309508926,-102.73159448952865)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494745,-0.30901699437494745,0.9510565162951533,68.32406715781389,-120.675290133905)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,0.30901699437494745,-0.30901699437494745,0.9510565162951533,71.41423710156336,-130.18585529685654)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.587785252292473,0.8090169943749472,-0.8090169943749472,0.587785252292473,73.17816912406356,-117.14857862015016)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,0.8090169943749472,-0.8090169943749472,0.587785252292473,81.26833906781303,-123.02643114307489)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.30901699437494745,0.9510565162951533,-0.9510565162951533,0.30901699437494745,62.522124608844095,-97.87749252327897)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,80.61620395162234,-106.9110019596634)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,88.7063738953718,-112.78885448258812)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(1.1102230246251565e-16,0.9999999999999997,-0.9999999999999997,1.1102230246251565e-16,82.47030591787201,-101.20466286189244)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.1102230246251565e-16,0.9999999999999997,-0.9999999999999997,1.1102230246251565e-16,92.47030591787201,-101.20466286189244)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,26.21626546535871,-52.51106347339976)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749473,0.5877852522924729,-0.5877852522924729,0.8090169943749473,40.63324959598024,-66.69381950237405)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951534,0.3090169943749473,-0.3090169943749473,0.9510565162951534,49.961903658704856,-84.63751514675042)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9999999999999998,-1.1102230246251565e-16,1.1102230246251565e-16,0.9999999999999998,53.28907399731834,-104.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,-0.30901699437494745,0.30901699437494745,0.9510565162951533,50.28907399731835,-124.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,-0.30901699437494745,0.30901699437494745,0.9510565162951533,47.19890405356887,-134.09626161872987)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494723,-0.30901699437494723,0.9510565162951533,56.28907399731834,-124.58569645577833)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,0.30901699437494723,-0.30901699437494723,0.9510565162951533,59.37924394106781,-134.09626161872987)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.8090169943749472,0.5877852522924729,-0.5877852522924729,0.8090169943749472,58.99541309508926,-102.73159448952866)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,68.32406715781387,-120.67529013390501)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951533,0.30901699437494734,-0.30901699437494734,0.9510565162951533,71.41423710156334,-130.18585529685654)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,73.17816912406356,-117.14857862015018)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.587785252292473,0.8090169943749471,-0.8090169943749471,0.587785252292473,81.26833906781303,-123.02643114307492)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,54.81600562495454,-81.11080363299558)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749473,0.5877852522924729,-0.5877852522924729,0.8090169943749473,69.23298975557607,-95.2935596619699)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951534,0.3090169943749473,-0.3090169943749473,0.9510565162951534,78.56164381830068,-113.23725530634626)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951534,0.3090169943749473,-0.3090169943749473,0.9510565162951534,81.65181376205015,-122.74782046929779)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,83.41574578455037,-109.71054379259142)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,91.50591572829983,-115.58839631551615)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.30901699437494756,0.9510565162951534,-0.9510565162951534,0.30901699437494756,72.7597012693309,-90.43945769572021)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,90.85378061210915,-99.47296713210463)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,98.9439505558586,-105.35081965502937)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(1.6653345369377348e-16,0.9999999999999998,-0.9999999999999998,1.6653345369377348e-16,92.70788257835882,-93.7666280343337)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,0.9999999999999998,-0.9999999999999998,1.6653345369377348e-16,102.70788257835882,-93.7666280343337)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.30901699437494756,0.9510565162951534,-0.9510565162951534,0.30901699437494756,44.15996110973508,-61.83971753612438)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,62.2540404525133,-70.87322697250879)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.8090169943749473,0.5877852522924729,-0.5877852522924729,0.8090169943749473,76.67102458313482,-85.05598300148309)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.9510565162951534,0.3090169943749473,-0.3090169943749473,0.9510565162951534,85.99967864585946,-102.99967864585945)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.9510565162951534,0.3090169943749473,-0.3090169943749473,0.9510565162951534,89.08984858960892,-112.51024380881098)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,90.85378061210912,-99.47296713210461)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,98.94395055585859,-105.35081965502934)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(0.30901699437494756,0.9510565162951534,-0.9510565162951534,0.30901699437494756,80.19773609688967,-80.2018810352334)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,98.2918154396679,-89.23539047161782)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,0.8090169943749472,-0.8090169943749472,0.5877852522924731,106.38198538341737,-95.11324299454256)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(1.6653345369377348e-16,0.9999999999999998,-0.9999999999999998,1.6653345369377348e-16,100.14591740591757,-83.5290513738469)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,0.9999999999999998,-0.9999999999999998,1.6653345369377348e-16,110.14591740591757,-83.5290513738469)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(1.6653345369377348e-16,0.9999999999999998,-0.9999999999999998,1.6653345369377348e-16,64.10814241876298,-65.16688787473787)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.3090169943749475,0.9510565162951533,-0.9510565162951533,0.3090169943749475,84.10814241876298,-68.16688787473787)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(0.5877852522924731,0.8090169943749471,-0.8090169943749471,0.5877852522924731,102.20222176154121,-77.20039731112227)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(0.5877852522924731,0.8090169943749471,-0.8090169943749471,0.5877852522924731,110.29239170529067,-83.078249834047)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(1.6653345369377348e-16,0.9999999999999997,-0.9999999999999997,1.6653345369377348e-16,104.0563237277909,-71.49405821335135)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,0.9999999999999997,-0.9999999999999997,1.6653345369377348e-16,114.0563237277909,-71.49405821335135)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(-0.3090169943749472,0.9510565162951533,-0.9510565162951533,-0.3090169943749472,84.10814241876298,-62.16688787473787)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<rect transform='matrix(1.6653345369377348e-16,0.9999999999999996,-0.9999999999999996,1.6653345369377348e-16,104.0563237277909,-58.83971753612439)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(1.6653345369377348e-16,0.9999999999999996,-0.9999999999999996,1.6653345369377348e-16,114.0563237277909,-58.83971753612439)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+<rect transform='matrix(-0.5877852522924727,0.8090169943749472,-0.8090169943749472,-0.5877852522924727,102.20222176154121,-53.133378438353475)' fill='rgb(0,0,0)' x='-0.5' y='-10.0' width='1.0' height='20.0'/>
+<ellipse transform='matrix(-0.5877852522924727,0.8090169943749472,-0.8090169943749472,-0.5877852522924727,110.29239170529067,-47.25552591542875)' fill='rgb(255,255,0)' cx='0.0' cy='-0.0' rx='4.0' ry='4.0'/>
+</g>
+</svg>
